@@ -25,3 +25,4 @@ hs_err_pid*
 # Ignorar t o d o  lo del IDLE
 .idea/*
 *.iml
+
